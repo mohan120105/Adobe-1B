@@ -1,0 +1,6 @@
+pdfplumber
+# sentence-transformers
+numpy
+torch
+transformers==4.40.2
+sentence-transformers==2.6.1

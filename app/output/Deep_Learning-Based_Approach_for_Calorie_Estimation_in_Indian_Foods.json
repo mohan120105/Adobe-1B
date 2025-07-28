@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "input_documents": [
+      "app/input\\Deep_Learning-Based_Approach_for_Calorie_Estimation_in_Indian_Foods.pdf"
+    ],
+    "persona": "PhD Researcher in semantic plagiarism",
+    "job": "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks",
+    "timestamp": "2025-07-28T06:48:50.515832"
+  },
+  "extracted_sections": [
+    {
+      "document": "Deep_Learning-Based_Approach_for_Calorie_Estimation_in_Indian_Foods.pdf",
+      "page": 2,
+      "section_title": "A. Dataset Information:",
+      "importance_rank": 1
+    },
+    {
+      "document": "Deep_Learning-Based_Approach_for_Calorie_Estimation_in_Indian_Foods.pdf",
+      "page": 5,
+      "section_title": "F Precision Recall",
+      "importance_rank": 2
+    },
+    {
+      "document": "Deep_Learning-Based_Approach_for_Calorie_Estimation_in_Indian_Foods.pdf",
+      "page": 2,
+      "section_title": "Incomplete annotation, within the dataset leads to some",
+      "importance_rank": 3
+    },
+    {
+      "document": "Deep_Learning-Based_Approach_for_Calorie_Estimation_in_Indian_Foods.pdf",
+      "page": 1,
+      "section_title": "95.21 percent which is better than the existing architecture. &",
+      "importance_rank": 4
+    },
+    {
+      "document": "Deep_Learning-Based_Approach_for_Calorie_Estimation_in_Indian_Foods.pdf",
+      "page": 5,
+      "section_title": "Classification report consisting different evaluation metrics",
+      "importance_rank": 5
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Deep_Learning-Based_Approach_for_Calorie_Estimation_in_Indian_Foods.pdf",
+      "page": 2,
+      "refined_text": ""
+    },
+    {
+      "document": "Deep_Learning-Based_Approach_for_Calorie_Estimation_in_Indian_Foods.pdf",
+      "page": 5,
+      "refined_text": "(cid:1005)(cid:3)(cid:1089)(cid:3)(cid:1085)(cid:3)(4) apple pie 0.45 0.27 0.34 55 baby back ribs 0.68 0.39 0.49 49 baklava 0.60 0.53 0.56 51 B.Confusion Matrix beef carpaccio 0.49 0.56 0.52 36 The proposed model’s confusion matrix can be found in beef tartare 0.55 0.31 0.39 39 beet salad 0.31 0.37 0.34 54 Figure 5. It provides values such, as Positive (TP) True beignets 0.77 0.60 0.67 60 Negative"
+    },
+    {
+      "document": "Deep_Learning-Based_Approach_for_Calorie_Estimation_in_Indian_Foods.pdf",
+      "page": 2,
+      "refined_text": "unhealthy food base and unhealthy food toppings. Through"
+    },
+    {
+      "document": "Deep_Learning-Based_Approach_for_Calorie_Estimation_in_Indian_Foods.pdf",
+      "page": 1,
+      "refined_text": ""
+    },
+    {
+      "document": "Deep_Learning-Based_Approach_for_Calorie_Estimation_in_Indian_Foods.pdf",
+      "page": 5,
+      "refined_text": "for different food items is given in Table 4 and Figure"
+    }
+  ]
+}

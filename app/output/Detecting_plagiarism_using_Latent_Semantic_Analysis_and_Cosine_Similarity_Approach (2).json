@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "input_documents": [
+      "app/input\\Detecting_plagiarism_using_Latent_Semantic_Analysis_and_Cosine_Similarity_Approach (2).pdf"
+    ],
+    "persona": "PhD Researcher in semantic plagiarism",
+    "job": "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks",
+    "timestamp": "2025-07-28T06:48:59.779956"
+  },
+  "extracted_sections": [
+    {
+      "document": "Detecting_plagiarism_using_Latent_Semantic_Analysis_and_Cosine_Similarity_Approach (2).pdf",
+      "page": 1,
+      "section_title": "Plagiarism describes our research and conclusions and E",
+      "importance_rank": 1
+    },
+    {
+      "document": "Detecting_plagiarism_using_Latent_Semantic_Analysis_and_Cosine_Similarity_Approach (2).pdf",
+      "page": 1,
+      "section_title": "plagiarism detection, ensuring that comparisons are",
+      "importance_rank": 2
+    },
+    {
+      "document": "Detecting_plagiarism_using_Latent_Semantic_Analysis_and_Cosine_Similarity_Approach (2).pdf",
+      "page": 1,
+      "section_title": "take place inside the dataset and data security.",
+      "importance_rank": 3
+    },
+    {
+      "document": "Detecting_plagiarism_using_Latent_Semantic_Analysis_and_Cosine_Similarity_Approach (2).pdf",
+      "page": 1,
+      "section_title": "Within the academic community, plagiarism by students is",
+      "importance_rank": 4
+    },
+    {
+      "document": "Detecting_plagiarism_using_Latent_Semantic_Analysis_and_Cosine_Similarity_Approach (2).pdf",
+      "page": 1,
+      "section_title": "latent semanticanalysis and cosine similarity to compare the",
+      "importance_rank": 5
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Detecting_plagiarism_using_Latent_Semantic_Analysis_and_Cosine_Similarity_Approach (2).pdf",
+      "page": 1,
+      "refined_text": ""
+    },
+    {
+      "document": "Detecting_plagiarism_using_Latent_Semantic_Analysis_and_Cosine_Similarity_Approach (2).pdf",
+      "page": 1,
+      "refined_text": "comprehend the outcomes."
+    },
+    {
+      "document": "Detecting_plagiarism_using_Latent_Semantic_Analysis_and_Cosine_Similarity_Approach (2).pdf",
+      "page": 1,
+      "refined_text": "plagiarism in their document and the necessity for changes in an eye-catching graphical format. This procedure will undoubtedly (cid:120)To obtain precise outcomes. Score takes into ) assist in determining whether or not content has been duplicated,"
+    },
+    {
+      "document": "Detecting_plagiarism_using_Latent_Semantic_Analysis_and_Cosine_Similarity_Approach (2).pdf",
+      "page": 1,
+      "refined_text": ""
+    },
+    {
+      "document": "Detecting_plagiarism_using_Latent_Semantic_Analysis_and_Cosine_Similarity_Approach (2).pdf",
+      "page": 1,
+      "refined_text": "(cid:120)To apply the current algorithm in accordance with papers' similarity. must steer clear of any accidental or the specific requirements of our system. While purposeful plagiarism. To arrange tasks by employing these"
+    }
+  ]
+}

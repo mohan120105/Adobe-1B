@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "input_documents": [
+      "app/input\\CalorieMe_An_Image-based_Calorie_Estimator_System.pdf"
+    ],
+    "persona": "PhD Researcher in semantic plagiarism",
+    "job": "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks",
+    "timestamp": "2025-07-28T06:48:46.410365"
+  },
+  "extracted_sections": [
+    {
+      "document": "CalorieMe_An_Image-based_Calorie_Estimator_System.pdf",
+      "page": 2,
+      "section_title": "models on the same datasets using WISeR. The accuracies",
+      "importance_rank": 1
+    },
+    {
+      "document": "CalorieMe_An_Image-based_Calorie_Estimator_System.pdf",
+      "page": 2,
+      "section_title": "significance of this new extended dataset, the authors used the",
+      "importance_rank": 2
+    },
+    {
+      "document": "CalorieMe_An_Image-based_Calorie_Estimator_System.pdf",
+      "page": 2,
+      "section_title": "al. This new “complete” version of the dataset is referred to as",
+      "importance_rank": 3
+    },
+    {
+      "document": "CalorieMe_An_Image-based_Calorie_Estimator_System.pdf",
+      "page": 5,
+      "section_title": "models to enhance the accuracy and quality of the results.",
+      "importance_rank": 4
+    },
+    {
+      "document": "CalorieMe_An_Image-based_Calorie_Estimator_System.pdf",
+      "page": 5,
+      "section_title": "the methodology presented in the research paper [16], two",
+      "importance_rank": 5
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "CalorieMe_An_Image-based_Calorie_Estimator_System.pdf",
+      "page": 2,
+      "refined_text": ""
+    },
+    {
+      "document": "CalorieMe_An_Image-based_Calorie_Estimator_System.pdf",
+      "page": 2,
+      "refined_text": ""
+    },
+    {
+      "document": "CalorieMe_An_Image-based_Calorie_Estimator_System.pdf",
+      "page": 2,
+      "refined_text": ""
+    },
+    {
+      "document": "CalorieMe_An_Image-based_Calorie_Estimator_System.pdf",
+      "page": 5,
+      "refined_text": "Error! Reference source not found. III Shows a c"
+    },
+    {
+      "document": "CalorieMe_An_Image-based_Calorie_Estimator_System.pdf",
+      "page": 5,
+      "refined_text": ""
+    }
+  ]
+}
