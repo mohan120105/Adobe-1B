@@ -1,7 +1,7 @@
 # Adobe India Hackathon – Round 1B Submission
 
-**Author:** \[GMRIT]
-**Date:** \[28-07-2025]
+**Author:** GMRIT
+**Date:** 28-07-2025
 
 ## Overview
 
@@ -10,17 +10,18 @@ This repository presents my solution for Adobe India Hackathon Round 1B ("Connec
 ---
 
 ## Directory Structure
-
+```
 project/
 ├── main.py
 ├── requirements.txt
 ├── Dockerfile
 ├── README.md
-├── approach\_explanation.md
+├── approach_explanation.md
 └── app/
-├── input/ # Place input PDF files here
-└── output/ # Output JSONs will be written here
+    ├── input/     # Place input PDF files here
+    └── output/    # Output JSONs will be written here
 
+```
 ---
 
 ## Build & Run Instructions
